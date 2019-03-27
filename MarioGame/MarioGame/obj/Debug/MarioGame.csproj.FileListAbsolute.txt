@@ -1,0 +1,30 @@
+E:\Files\#Github\Facultate\#Anul II\Sem I\Met. Avansate de Prog\#Laborator\MarioGame\MarioGame\bin\Debug\MarioGame.exe.config
+E:\Files\#Github\Facultate\#Anul II\Sem I\Met. Avansate de Prog\#Laborator\MarioGame\MarioGame\bin\Debug\MarioGame.exe
+E:\Files\#Github\Facultate\#Anul II\Sem I\Met. Avansate de Prog\#Laborator\MarioGame\MarioGame\bin\Debug\MarioGame.pdb
+E:\Files\#Github\Facultate\#Anul II\Sem I\Met. Avansate de Prog\#Laborator\MarioGame\MarioGame\obj\Debug\MarioGame.csprojAssemblyReference.cache
+E:\Files\#Github\Facultate\#Anul II\Sem I\Met. Avansate de Prog\#Laborator\MarioGame\MarioGame\obj\Debug\MarioGame.Form1.resources
+E:\Files\#Github\Facultate\#Anul II\Sem I\Met. Avansate de Prog\#Laborator\MarioGame\MarioGame\obj\Debug\MarioGame.Properties.Resources.resources
+E:\Files\#Github\Facultate\#Anul II\Sem I\Met. Avansate de Prog\#Laborator\MarioGame\MarioGame\obj\Debug\MarioGame.csproj.GenerateResource.cache
+E:\Files\#Github\Facultate\#Anul II\Sem I\Met. Avansate de Prog\#Laborator\MarioGame\MarioGame\obj\Debug\MarioGame.csproj.CoreCompileInputs.cache
+E:\Files\#Github\Facultate\#Anul II\Sem I\Met. Avansate de Prog\#Laborator\MarioGame\MarioGame\obj\Debug\MarioGame.exe
+E:\Files\#Github\Facultate\#Anul II\Sem I\Met. Avansate de Prog\#Laborator\MarioGame\MarioGame\obj\Debug\MarioGame.pdb
+E:\Files\#Hobby\MarioGame\MarioGame\bin\Debug\MarioGame.exe.config
+E:\Files\#Hobby\MarioGame\MarioGame\bin\Debug\MarioGame.exe
+E:\Files\#Hobby\MarioGame\MarioGame\bin\Debug\MarioGame.pdb
+E:\Files\#Hobby\MarioGame\MarioGame\obj\Debug\MarioGame.csprojAssemblyReference.cache
+E:\Files\#Hobby\MarioGame\MarioGame\obj\Debug\MarioGame.Form1.resources
+E:\Files\#Hobby\MarioGame\MarioGame\obj\Debug\MarioGame.Properties.Resources.resources
+E:\Files\#Hobby\MarioGame\MarioGame\obj\Debug\MarioGame.csproj.GenerateResource.cache
+E:\Files\#Hobby\MarioGame\MarioGame\obj\Debug\MarioGame.csproj.CoreCompileInputs.cache
+E:\Files\#Hobby\MarioGame\MarioGame\obj\Debug\MarioGame.exe
+E:\Files\#Hobby\MarioGame\MarioGame\obj\Debug\MarioGame.pdb
+D:\Files\#Hobby\C#\MarioGame\MarioGame\bin\Debug\MarioGame.exe.config
+D:\Files\#Hobby\C#\MarioGame\MarioGame\bin\Debug\MarioGame.exe
+D:\Files\#Hobby\C#\MarioGame\MarioGame\bin\Debug\MarioGame.pdb
+D:\Files\#Hobby\C#\MarioGame\MarioGame\obj\Debug\MarioGame.csprojAssemblyReference.cache
+D:\Files\#Hobby\C#\MarioGame\MarioGame\obj\Debug\MarioGame.Form1.resources
+D:\Files\#Hobby\C#\MarioGame\MarioGame\obj\Debug\MarioGame.Properties.Resources.resources
+D:\Files\#Hobby\C#\MarioGame\MarioGame\obj\Debug\MarioGame.csproj.GenerateResource.cache
+D:\Files\#Hobby\C#\MarioGame\MarioGame\obj\Debug\MarioGame.csproj.CoreCompileInputs.cache
+D:\Files\#Hobby\C#\MarioGame\MarioGame\obj\Debug\MarioGame.exe
+D:\Files\#Hobby\C#\MarioGame\MarioGame\obj\Debug\MarioGame.pdb
