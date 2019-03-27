@@ -1,0 +1,10 @@
+E:\Files\#Hobby\RainbowSort\RainbowSort\bin\Debug\RainbowSort.exe.config
+E:\Files\#Hobby\RainbowSort\RainbowSort\bin\Debug\RainbowSort.exe
+E:\Files\#Hobby\RainbowSort\RainbowSort\bin\Debug\RainbowSort.pdb
+E:\Files\#Hobby\RainbowSort\RainbowSort\obj\Debug\RainbowSort.csprojAssemblyReference.cache
+E:\Files\#Hobby\RainbowSort\RainbowSort\obj\Debug\RainbowSort.Form1.resources
+E:\Files\#Hobby\RainbowSort\RainbowSort\obj\Debug\RainbowSort.Properties.Resources.resources
+E:\Files\#Hobby\RainbowSort\RainbowSort\obj\Debug\RainbowSort.csproj.GenerateResource.cache
+E:\Files\#Hobby\RainbowSort\RainbowSort\obj\Debug\RainbowSort.csproj.CoreCompileInputs.cache
+E:\Files\#Hobby\RainbowSort\RainbowSort\obj\Debug\RainbowSort.exe
+E:\Files\#Hobby\RainbowSort\RainbowSort\obj\Debug\RainbowSort.pdb
