@@ -1,0 +1,15 @@
+E:\Files\#Hobby\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+E:\Files\#Hobby\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+E:\Files\#Hobby\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+E:\Files\#Hobby\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csprojAssemblyReference.cache
+E:\Files\#Hobby\Minesweeper\Minesweeper\obj\Debug\MainWindow.g.cs
+E:\Files\#Hobby\Minesweeper\Minesweeper\obj\Debug\App.g.cs
+E:\Files\#Hobby\Minesweeper\Minesweeper\obj\Debug\Minesweeper_MarkupCompile.cache
+E:\Files\#Hobby\Minesweeper\Minesweeper\obj\Debug\Minesweeper_MarkupCompile.lref
+E:\Files\#Hobby\Minesweeper\Minesweeper\obj\Debug\MainWindow.baml
+E:\Files\#Hobby\Minesweeper\Minesweeper\obj\Debug\Minesweeper.g.resources
+E:\Files\#Hobby\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+E:\Files\#Hobby\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+E:\Files\#Hobby\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+E:\Files\#Hobby\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+E:\Files\#Hobby\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
